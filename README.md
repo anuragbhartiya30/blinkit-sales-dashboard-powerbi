@@ -68,6 +68,11 @@ Generated insights that can support pricing, inventory planning, and category op
 
 ## 📸 Dashboard Preview
 <img width="985" height="558" alt="blinkit sales dashboard (1)" src="https://github.com/user-attachments/assets/7f47b0f9-e4c7-4d1a-926d-ed92409c8851" />
+<img width="979" height="558" alt="Avg Sales (1)" src="https://github.com/user-attachments/assets/37f5487b-b9c4-4d95-8861-dd840a903e3c" />
+<img width="974" height="558" alt="No  of Items (1)" src="https://github.com/user-attachments/assets/793bd34b-04f4-468e-9464-71328f600c53" />
+<img width="975" height="559" alt="Avg Ratings (1)" src="https://github.com/user-attachments/assets/9d54d6e0-ebd5-46fc-8511-fb1ec93d9e4a" />
+
+
 
 
 
