@@ -6,7 +6,7 @@ This project focuses on analyzing Blinkit’s sales and operational performance 
 
 The dashboard was developed as a self-learning business analytics project to strengthen practical understanding of *data visualization, KPI tracking, and business decision-making* using retail sales data.
 
-*Project Duration:* May 2026
+*Project Duration:* December 2025
 *Project Type:* Self-Learning Business Analytics Project
 *Tools Used:* Power BI, Microsoft Excel, Power Query, DAX
 
